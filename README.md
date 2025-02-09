@@ -43,5 +43,7 @@ Submit a Pull Request! 🔥
 License 📜
 This project is licensed under the MIT License. You are free to use and modify it as needed.
 
-Author: niessohdfgs
-   ![Uploading Screenshot 2025-02-09 003858.png…]()
+Author: niessohdfgs <br>
+![Screenshot 2025-02-09 003858](https://github.com/user-attachments/assets/d752c507-d435-4451-931a-a5da8afd88b7)
+
+  
